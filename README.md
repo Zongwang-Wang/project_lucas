@@ -1,2 +1,2 @@
-# project_lucas
-make a AI powered smart Zongwang
+## New Feature
+Description of the new feature being added.
