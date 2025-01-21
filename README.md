@@ -1,2 +1,2 @@
 # project_lucas
-make a AI powered smart Lucas
+make a AI powered smart Zongaang
